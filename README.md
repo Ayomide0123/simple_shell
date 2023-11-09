@@ -1,2 +1,6 @@
-# simple_shell
-0x16. C - Simple Shell
+# Simple Shell
+
+### Collaborators
+
+- Masentle Moloi -- pearlmase
+- Oyetimehin Ayomide -- Ayomide0123
